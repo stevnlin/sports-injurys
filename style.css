@@ -1,0 +1,41 @@
+@charset="utf-8";
+
+html {
+  background-color: #ADADAD;
+}
+h1{
+	width: 300px;
+	margin: 40px;
+	padding: 45px;
+	border: 5px solid ;
+	font-size: 300%;
+	text-align:center;
+	line-height: 1;
+}
+a {
+	color: #df4839;
+}
+body {
+  background-color:#grey;
+}
+h1 {
+  background-color:#black;
+}
+#contents{
+	padding:15px;
+	margin:40px auto;
+	position:center top; 
+	text-align:center; 
+	font-size:24px;  
+	background-color:#8D8D8D; 
+	border:1px"
+}
+#textbox { 
+    font-size:18pt; 
+    height:30px; 
+    width:200px; 
+    } 
+
+.mytext{
+	width:300px;
+}
